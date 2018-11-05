@@ -25,3 +25,7 @@ h2.widget-title{
 .widget_categories a{
     color: red;
 }
+
+body.has-header-image .site-title, body.has-header-video .site-title, body.has-header-image .site-title a, body.has-header-video .site-title a{
+    color: cyan;
+}
